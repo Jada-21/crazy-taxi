@@ -1,5 +1,6 @@
 *.mp4
+*.zip
 *.pt
-data/frames/
-results/
-__pycache__/
+frames/
+frames_1200/
+yolo_10_results/
