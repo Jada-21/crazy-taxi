@@ -1,0 +1,5 @@
+train: /workspaces/ml/dataset/images/train
+val: /workspaces/ml/dataset/images/val
+
+nc: 3
+names: ['human', 'bus', 'semi']
