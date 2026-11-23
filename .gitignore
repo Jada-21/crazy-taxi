@@ -1,4 +1,9 @@
 *.mp4
+*.pt
+data/frames/
+results/
+__pycache__/
+*.mp4
 *.zip
 *.pt
 frames/
