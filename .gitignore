@@ -1,5 +1,11 @@
 *.mp4
 *.pt
+!best.pt
 data/frames/
+dataset/
+my_1200/
 results/
 __pycache__/
+data/
+src/
+yolo_example.py
